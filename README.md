@@ -1,5 +1,7 @@
 # MeshCore CFW Builder
 
+![alt text](https://github.com/christian45410/meshcore-cfw-builder/blob/main/Screenshot.png)
+
 A web-based firmware builder for [MeshCore](https://github.com/meshcore-dev/MeshCore). Select your board, firmware type, and custom flags — get a compiled `.bin` back.
 
 ## What it does
