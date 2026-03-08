@@ -4,6 +4,8 @@
 
 A web-based firmware builder for [MeshCore](https://github.com/meshcore-dev/MeshCore). Select your board, firmware type, and custom flags — get a compiled `.bin` back.
 
+Demo: [https://meshcorecfw.lunars.cloud/](https://meshcorecfw.lunars.cloud)
+
 ## What it does
 
 - Clones the latest MeshCore source from GitHub
